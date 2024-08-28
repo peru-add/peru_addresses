@@ -1,0 +1,200 @@
+Av. Gregorio Escobedo 3091|La Molina||15024
+Av. La Marina 1973|San Juan de Miraflores||15801
+Av. Javier Prado 1259|San Borja||15075
+Av. Arequipa 769|San Juan de Miraflores||15801
+Av. Gregorio Escobedo 3164|Pueblo Libre||15084
+Av. La Marina 3107|Magdalena del Mar||15076
+Av. Petit Thouars 3868|San Isidro||15073
+Av. La Paz 4172|Pueblo Libre||15084
+Av. Javier Prado 3875|San Juan de Miraflores||15801
+Av. Primavera 2345|San Borja||15075
+Av. Larco 2712|Lince||15073
+Av. Pardo y Aliaga 4135|San Miguel||15087
+Av. Pardo y Aliaga 1615|San Isidro||15073
+Av. La Fontana 2066|Ate||15022
+Av. La Molina 3671|San Miguel||15087
+Av. El Derby 3195|Santa Anita||15009
+Av. La Fontana 838|Breña||15082
+Av. Gregorio Escobedo 1999|Santa Anita||15009
+Av. La Fontana 825|Miraflores||15074
+Av. Petit Thouars 175|Breña||15082
+Av. Javier Prado 3937|Villa María del Triunfo||15831
+Av. Javier Prado 3626|San Borja||15075
+Av. Brasil 2346|San Juan de Miraflores||15801
+Av. Arequipa 2897|Villa María del Triunfo||15831
+Av. El Polo 1062|Ate||15022
+Av. El Polo 112|La Molina||15024
+Av. Angamos 1887|San Isidro||15073
+Av. Larco 4627|Jesús María||15072
+Av. Brasil 1600|Villa María del Triunfo||15831
+Av. Gral. Salaverry 3909|Santa Anita||15009
+Av. La Marina 2194|Breña||15082
+Av. Primavera 520|Villa El Salvador||15834
+Av. Angamos 788|Magdalena del Mar||15076
+Av. Brasil 987|Chorrillos||15064
+Av. Gregorio Escobedo 3530|Barranco||15063
+Av. Primavera 3360|San Borja||15075
+Av. La Marina 3152|Ate||15022
+Av. Pardo y Aliaga 1785|Jesús María||15072
+Av. Arequipa 1966|San Borja||15075
+Av. Pardo y Aliaga 2809|Surco||15023
+Av. El Derby 1571|Lince||15073
+Av. Angamos 4229|Santa Anita||15009
+Av. Angamos 4189|El Agustino||15007
+Av. Angamos 2860|Miraflores||15074
+Av. Caminos del Inca 194|Lince||15073
+Av. La Fontana 4663|Lince||15073
+Av. Petit Thouars 4972|San Borja||15075
+Av. Brasil 2906|El Agustino||15007
+Av. Gral. Salaverry 3033|Breña||15082
+Av. Gregorio Escobedo 2218|La Molina||15024
+Av. San Borja Norte 4421|San Miguel||15087
+Av. Benavides 3646|San Isidro||15073
+Av. Pardo y Aliaga 521|San Borja||15075
+Av. San Borja Norte 1005|San Borja||15075
+Av. Angamos 502|El Agustino||15007
+Av. Universitaria 3209|Santa Anita||15009
+Av. Angamos 4549|Surco||15023
+Av. Gral. Salaverry 2625|La Molina||15024
+Av. Caminos del Inca 2139|San Borja||15075
+Av. Arequipa 4083|San Juan de Miraflores||15801
+Av. Javier Prado 2755|Miraflores||15074
+Av. Larco 3959|Villa El Salvador||15834
+Av. La Molina 3018|Barranco||15063
+Av. San Borja Norte 567|El Agustino||15007
+Av. Pardo y Aliaga 1053|Breña||15082
+Av. La Paz 4313|Jesús María||15072
+Av. Pardo y Aliaga 3418|Lince||15073
+Av. Caminos del Inca 2491|San Juan de Miraflores||15801
+Av. Javier Prado 2753|San Juan de Miraflores||15801
+Av. Gregorio Escobedo 849|La Molina||15024
+Av. Pardo y Aliaga 4574|Rímac||15093
+Av. El Derby 3389|Breña||15082
+Av. El Derby 482|San Isidro||15073
+Av. Benavides 2496|Lince||15073
+Av. Primavera 4038|San Borja||15075
+Av. La Molina 3660|Lince||15073
+Av. Pardo y Aliaga 371|Villa El Salvador||15834
+Av. Primavera 2394|Santa Anita||15009
+Av. Petit Thouars 2480|Chorrillos||15064
+Av. Gral. Salaverry 4699|Chorrillos||15064
+Av. Brasil 4045|Surco||15023
+Av. El Polo 3448|San Miguel||15087
+Av. La Marina 1448|Rímac||15093
+Av. Larco 1958|Chorrillos||15064
+Av. Primavera 1418|Santa Anita||15009
+Av. El Derby 1395|Pueblo Libre||15084
+Av. Caminos del Inca 4192|Jesús María||15072
+Av. Angamos 579|El Agustino||15007
+Av. Universitaria 3848|Pueblo Libre||15084
+Av. Caminos del Inca 842|Lince||15073
+Av. El Derby 518|Jesús María||15072
+Av. San Borja Norte 2349|Miraflores||15074
+Av. La Fontana 4576|San Isidro||15073
+Av. Pardo y Aliaga 2892|San Isidro||15073
+Av. Javier Prado 1893|Lince||15073
+Av. Arequipa 1116|Barranco||15063
+Av. Arequipa 4265|Santa Anita||15009
+Av. Gregorio Escobedo 1682|Breña||15082
+Av. Caminos del Inca 2216|Villa El Salvador||15834
+Av. San Borja Norte 443|Pueblo Libre||15084
+Av. Pardo y Aliaga 2044|Magdalena del Mar||15076
+Av. Gregorio Escobedo 986|Jesús María||15072
+Av. La Marina 1519|San Borja||15075
+Av. Petit Thouars 921|San Borja||15075
+Av. Pardo y Aliaga 2393|Chorrillos||15064
+Av. Benavides 3375|Magdalena del Mar||15076
+Av. Petit Thouars 4216|Barranco||15063
+Av. Primavera 1456|Miraflores||15074
+Av. Pardo y Aliaga 3724|Villa El Salvador||15834
+Av. Arequipa 321|San Miguel||15087
+Av. Angamos 649|Jesús María||15072
+Av. Larco 3263|San Borja||15075
+Av. La Fontana 2553|Surco||15023
+Av. El Derby 1877|Magdalena del Mar||15076
+Av. Angamos 3900|Villa El Salvador||15834
+Av. Benavides 4090|Ate||15022
+Av. Gral. Salaverry 3346|Jesús María||15072
+Av. Pardo y Aliaga 1283|Chorrillos||15064
+Av. Gral. Salaverry 3824|Breña||15082
+Av. La Molina 3434|Ate||15022
+Av. El Derby 4837|La Molina||15024
+Av. Pardo y Aliaga 3357|Villa María del Triunfo||15831
+Av. Pardo y Aliaga 2225|Magdalena del Mar||15076
+Av. Brasil 4698|Barranco||15063
+Av. La Molina 108|El Agustino||15007
+Av. Pardo y Aliaga 1703|Ate||15022
+Av. Gregorio Escobedo 3039|Rímac||15093
+Av. Angamos 3823|San Miguel||15087
+Av. Angamos 4295|San Miguel||15087
+Av. Benavides 839|Surco||15023
+Av. Larco 3201|Santa Anita||15009
+Av. La Paz 4805|Rímac||15093
+Av. La Fontana 1761|Santa Anita||15009
+Av. Pardo y Aliaga 2744|Ate||15022
+Av. Angamos 4903|Villa El Salvador||15834
+Av. La Marina 354|Ate||15022
+Av. Benavides 4540|Barranco||15063
+Av. El Derby 3666|Surco||15023
+Av. Gral. Salaverry 4337|San Juan de Miraflores||15801
+Av. La Molina 404|Pueblo Libre||15084
+Av. Gregorio Escobedo 132|San Isidro||15073
+Av. La Paz 567|San Juan de Miraflores||15801
+Av. La Marina 4614|Miraflores||15074
+Av. Angamos 586|Barranco||15063
+Av. Gregorio Escobedo 1860|San Isidro||15073
+Av. Primavera 4431|Chorrillos||15064
+Av. Benavides 1970|Santa Anita||15009
+Av. San Borja Norte 4123|Barranco||15063
+Av. Arequipa 258|Pueblo Libre||15084
+Av. Brasil 4244|Villa María del Triunfo||15831
+Av. Benavides 1273|Pueblo Libre||15084
+Av. San Borja Norte 3154|Chorrillos||15064
+Av. Benavides 4718|Chorrillos||15064
+Av. Javier Prado 232|San Miguel||15087
+Av. Benavides 452|Santa Anita||15009
+Av. Brasil 536|Santa Anita||15009
+Av. La Paz 3771|El Agustino||15007
+Av. El Derby 4536|El Agustino||15007
+Av. La Molina 4122|Lince||15073
+Av. La Marina 2223|Barranco||15063
+Av. Brasil 777|Miraflores||15074
+Av. Universitaria 2956|San Isidro||15073
+Av. Universitaria 755|Surco||15023
+Av. Javier Prado 2252|San Miguel||15087
+Av. La Molina 2041|San Juan de Miraflores||15801
+Av. Universitaria 2547|San Miguel||15087
+Av. La Paz 3111|Miraflores||15074
+Av. Pardo y Aliaga 1290|Villa María del Triunfo||15831
+Av. Benavides 947|Ate||15022
+Av. Javier Prado 4211|Breña||15082
+Av. La Paz 2429|Rímac||15093
+Av. Brasil 4257|El Agustino||15007
+Av. La Molina 1567|San Borja||15075
+Av. El Derby 532|San Juan de Miraflores||15801
+Av. San Borja Norte 4402|Barranco||15063
+Av. Brasil 1093|El Agustino||15007
+Av. La Paz 776|San Juan de Miraflores||15801
+Av. Benavides 1456|Surco||15023
+Av. Gregorio Escobedo 1958|San Miguel||15087
+Av. Arequipa 3710|Breña||15082
+Av. La Marina 778|San Juan de Miraflores||15801
+Av. La Marina 2517|San Isidro||15073
+Av. Arequipa 227|San Miguel||15087
+Av. Universitaria 2559|Breña||15082
+Av. Primavera 2321|Santa Anita||15009
+Av. Arequipa 3123|Jesús María||15072
+Av. La Marina 1926|Magdalena del Mar||15076
+Av. Petit Thouars 4307|Rímac||15093
+Av. Primavera 3161|Jesús María||15072
+Av. Angamos 4548|Villa El Salvador||15834
+Av. El Polo 4948|Breña||15082
+Av. Angamos 4994|Breña||15082
+Av. Petit Thouars 565|La Molina||15024
+Av. Javier Prado 2359|Santa Anita||15009
+Av. La Paz 1850|Breña||15082
+Av. El Polo 4511|San Borja||15075
+Av. Gregorio Escobedo 4904|Ate||15022
+Av. La Molina 2374|Ate||15022
+Av. Javier Prado 2453|Villa El Salvador||15834
+Av. Javier Prado 4591|San Juan de Miraflores||15801
